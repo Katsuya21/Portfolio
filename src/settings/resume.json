@@ -1,0 +1,98 @@
+{
+    "basics": {
+        "name": "Aditya Chaudhary",
+        "label": "Web Developer",
+        "email": "adityaawadhchaudhary21@gmail.com",
+        "phone": "8851371752",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Web",
+        "job2": "Developer",
+        "description": "Hello! I'm Adi! A Web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in Delhi, India.",
+        "keywords": "personal,website,portfolio,template,kit,webdev,web,developer,delhi,india,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "",
+        "location": {
+            "address": "",
+            "postalCode": "XXXXX",
+            "city": "Delhi",
+            "country": "India",
+            "countryCode": "In",
+            "region": "Asia"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "adityaawadhchaudhary21@gmail.com",
+                "url": "mailto:adityaawadhchaudhary21@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Aditya Chaudhary",
+                "url": "https://www.linkedin.com/in/aditya-chaudhary-781111250",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "Katsuya21",
+                "url": "https://github.com/Katsuya21",
+                "x_icon": "fab fa-github"
+            },
+            
+            {
+                "network": "Discord",
+                "username": "Katsuya#7808",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Tog & Trim",
+            "position": "Jr Developer",
+            "website": "https://togandtrim.com/",
+            "startDate": "2022-12-01",
+            "endDate": "",
+            "summary": "",
+            "highlights": ""
+        }
+    ],
+    
+    "education": [
+        {
+            "institution": "Netaji Subhas University of Technology",
+            "area": "Computer Science with specialization in Data Science",
+            "studyType": "B.Tech",
+            "startDate": "2021",
+            "endDate": "2025",
+            "gpa": "",
+            "courses": ""
+        }
+    ],
+    
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript","React", "Nodejs","MongoDB"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music",
+            "keywords": ["Song", "Music"]
+        }
+    ]
+}
